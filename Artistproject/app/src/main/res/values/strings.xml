@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Artistproject</string>
+    
+    <array name="genres">
+        <item>Rock</item>
+        <item>Sufi</item>
+        <item>Jaaz</item>
+        <item>Pop</item>
+    </array>
+</resources>
